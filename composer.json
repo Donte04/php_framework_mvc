@@ -1,0 +1,15 @@
+{
+    "name": "t0b1/php_framework_mvc",
+    "authors": [
+        {
+            "name": "t0b1",
+            "email": "ramamsess@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
