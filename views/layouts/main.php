@@ -29,11 +29,21 @@
             <a class="nav-link" href="/contact">Contact</a>
             </li>
         </ul>
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="/login">Login</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/register">Register</a>
+            </li>
+        </ul>
         </div>
     </div>
     </nav>
 
-    {{content}}
+    <div class="container">
+      {{content}}
+    </div>
     
     <!-- Optional JavaScript; choose one of the two! -->
 
