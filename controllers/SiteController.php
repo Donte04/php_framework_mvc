@@ -26,4 +26,5 @@ class SiteController extends Controller
         $body = $request->getBody();
         return "Handling submitted data";
     }
+    
 }

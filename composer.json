@@ -10,7 +10,8 @@
         "psr-4": {
             "app\\": "./",
             "core\\": "./core/",
-            "controller\\": "./controllers/"
+            "controller\\": "./controllers/",
+            "model\\": "./models"
         }
     },
     "require": {}
